@@ -19,6 +19,8 @@
 *.rar
 *.tar
 *.zip
+*.php
+*.html
 
 # Logs and databases #
 ######################
